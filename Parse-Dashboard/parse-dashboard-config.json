@@ -11,11 +11,10 @@
   ],
   "users": [
     {
-      "user":"vmirzoyan",
-      "pass":"$2y$12$91t/QC50Jl.fp5L8LmjtGOxVBhpgzaKVIPRVnl/n1g7sRw8PHGQ8S"
+      "user":"kATI4844z0FT9R8ZnTZtaP0ImsCc5aNcLXGGUtwg",
+      "pass":"HXDWzAKhxhvKHyltr0ZoldTqDHZQ4ATMDBRmWJYC"
     }
   ],
-  "useEncryptedPasswords": true,  
   "iconsFolder": "public",
   "trustProxy": 1
 }
