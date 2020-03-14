@@ -1,14 +1,21 @@
 {
   "apps": [
     {
-      "serverURL": "http://localhost:1338/parse",
-      "appId": "hello",
-      "masterKey": "world",
-      "appName": "",
-      "iconName": "",
-      "primaryBackgroundColor": "",
-      "secondaryBackgroundColor": ""
+      "serverURL": "https://tradebase-server-ake5xss7ia-uc.a.run.app/parse",
+      "appId": "dev-tradebase",
+      "masterKey": "HXDWzAKhxhvKHyltr0ZoldTqDHZQ4ATMDBRmWJYC",
+      "appName": "Dev Tradebase Server",
+      "iconName": "tbicon.png",
+      "production": false
     }
   ],
-  "iconsFolder": "icons"
+  "users": [
+    {
+      "user":"vmirzoyan",
+      "pass":"$2y$12$91t/QC50Jl.fp5L8LmjtGOxVBhpgzaKVIPRVnl/n1g7sRw8PHGQ8S"
+    }
+  ],
+  "useEncryptedPasswords": true,  
+  "iconsFolder": "public",
+  "trustProxy": 1
 }
